@@ -1,0 +1,4 @@
+com\peluqueria\controller\EditarServlet.class
+com\peluqueria\dao\UsuarioDAO.class
+com\peluqueria\controller\PerfilServlet.class
+com\peluqueria\model\Usuario.class
